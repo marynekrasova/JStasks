@@ -54,3 +54,4 @@ console.log(`Result4 = ${result4}`);
 */
 let result5 = 10 / +"2,5";
 console.log(`Result5 = ${result5}`);
+
